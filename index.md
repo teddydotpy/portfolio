@@ -1,12 +1,13 @@
 
 
-Contact : 
+## Contact : 
 email:  sihlem.ntombela@gmail.com
 
-SOCIAL PROFILES: 
+## SOCIAL PROFILES: 
 github: https://github.com/teddydotpy
 portfolio: https://sntombela.netlify.app/
 other p: https://teddydotpy.github.io/portfolio/
+bootcamp: https://www.hyperiondev.com/portfolio/67960/
 
 ## I'm still learning.
 
