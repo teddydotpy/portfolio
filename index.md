@@ -1,6 +1,7 @@
 
 
 Contact : 
+email:  sihlem.ntombela@gmail.com
 
 SOCIAL PROFILES: 
 github: https://github.com/teddydotpy
@@ -36,7 +37,7 @@ other p: https://teddydotpy.github.io/portfolio/
   * May 2021 - August 2021
     Hyperion Dev, Johannesburg Data Science
 
-## Stack
+##Stack
     ★★★★☆ C/C++
     ★★★★☆ Python
     ★★★★☆ Tensorflow
@@ -57,10 +58,10 @@ other p: https://teddydotpy.github.io/portfolio/
     ★★★★☆ Critical Thinking
     ★★★★☆ Rest
 
-     I am interested in many fields within Computer Science including but
-    not limited to:
+I am interested in many fields within Computer Science including but
+not limited to:
 
-     - Algorythm Complexity
-     - Data Science 
-     - Machine Learning
+ - Algorythm Complexity
+ - Data Science 
+ - Machine Learning
 
