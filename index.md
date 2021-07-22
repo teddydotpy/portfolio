@@ -37,7 +37,7 @@ other p: https://teddydotpy.github.io/portfolio/
   * May 2021 - August 2021
     Hyperion Dev, Johannesburg Data Science
 
-##Stack
+## Stack
     ★★★★☆ C/C++
     ★★★★☆ Python
     ★★★★☆ Tensorflow
